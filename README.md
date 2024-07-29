@@ -1,0 +1,1 @@
+My own personal solution to sorting an array using the divide and conquer strategy: Merge Sort. I did this project in TypeScript, to learn how to debug TS in VSCode, as well as familiarize myself with TS better.
